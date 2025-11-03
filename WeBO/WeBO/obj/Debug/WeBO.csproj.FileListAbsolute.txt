@@ -1,0 +1,11 @@
+C:\Users\Erebos\source\repos\WeBO\WeBO\bin\Debug\WeBO.exe.config
+C:\Users\Erebos\source\repos\WeBO\WeBO\bin\Debug\WeBO.exe
+C:\Users\Erebos\source\repos\WeBO\WeBO\bin\Debug\WeBO.pdb
+C:\Users\Erebos\source\repos\WeBO\WeBO\obj\Debug\WeBO.csproj.AssemblyReference.cache
+C:\Users\Erebos\source\repos\WeBO\WeBO\obj\Debug\WeBO.Form1.resources
+C:\Users\Erebos\source\repos\WeBO\WeBO\obj\Debug\WeBO.Properties.Resources.resources
+C:\Users\Erebos\source\repos\WeBO\WeBO\obj\Debug\WeBO.csproj.GenerateResource.cache
+C:\Users\Erebos\source\repos\WeBO\WeBO\obj\Debug\WeBO.csproj.CoreCompileInputs.cache
+C:\Users\Erebos\source\repos\WeBO\WeBO\obj\Debug\WeBO.exe
+C:\Users\Erebos\source\repos\WeBO\WeBO\obj\Debug\WeBO.pdb
+C:\Users\Erebos\source\repos\WeBO\WeBO\obj\Debug\WeBO.csproj.CopyComplete
